@@ -1,0 +1,3 @@
+Exercise taken from https://www.youtube.com/watch?v=Rh_EQniPeAY  
+The problem:
+Your client has sent you documentation obout distances and fuel consumption of the sightseeing tours they offer, but there is a problem. The company is Amercican and he sent all documentation distance in miles. As much as you can to this conrversion computer's calator, or even Google, Nerd as you are,decided to write a program that, when you receive a value in miles, returns it is kilometers
